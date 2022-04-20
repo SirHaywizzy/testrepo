@@ -1,0 +1,12 @@
+Mark Conner, Paul Norman,
+8.01 - Health Behavior,
+Editor(s): Gordon J.G. Asmundson,
+Comprehensive Clinical Psychology (Second Edition),
+Elsevier,
+2022,
+Pages 1-33,
+ISBN 9780128222324,
+https://doi.org/10.1016/B978-0-12-818697-8.00060-1.
+(https://www.sciencedirect.com/science/article/pii/B9780128186978000601)
+Abstract: This article reviews current knowledge on health behaviors. Key health behaviors such as smoking, diet, and physical activity are reviewed. Several models of the key predictors of health behaviors are described and reviewed in terms of supporting research on predictive power and interventions to change behavior. Six such models are examined: Health Belief Model; Protection Motivation Theory; Theory of Planned Behavior and Reasoned Action Approach; Social Cognitive Theory; Health Action Process Approach; Implementation Intentions. A critique of this approach to understanding and changing health behaviors is provided. Moderators of the intention-health behavior relationship is examined. The important role of past Behavior and habit is reviewed. Dual process models and models of the maintenance of health behaviors are considered. Finally work on changing health behaviors is reviewed including work on behavior change techniques and mechanisms of action.
+Keywords: Health behaviors; Smoking; Diet; Exercise/physical activity; Health belief model; Protection motivation theory; Theory of planned behavior; Reasoned action approach; Social cognitive theory; Health action process approach; Implementation intentions

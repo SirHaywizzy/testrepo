@@ -1,0 +1,11 @@
+Berit Brandes, Heide Busse, Louisa Sell, Lara Christianson, Mirko Brandes,
+A scoping review on characteristics of school-based interventions to promote physical activity and cardiorespiratory fitness among 6- to 10-year-old children,
+Preventive Medicine,
+Volume 155,
+2022,
+106920,
+ISSN 0091-7435,
+https://doi.org/10.1016/j.ypmed.2021.106920.
+(https://www.sciencedirect.com/science/article/pii/S009174352100493X)
+Abstract: Physical inactivity, a leading cause of mortality, tracks from childhood to adulthood. Effective interventions to promote physical activity (PA) at a young age are therefore needed. The aim of this scoping review was to provide an overview of school-based interventions for the promotion of PA, cardiorespiratory fitness (CRF), and the reduction of sedentary behaviours (SB) among six- to ten-year-old school children, and map these interventions to the WHO Health Promoting Schools framework. Arksey and O'Malley's scoping review methodology framework guided the conduct of this review. A systematic electronic search of six databases was combined with a hand search of reference lists to retrieve studies published between 2010 and 2019. Data extraction included information on study and intervention characteristics, effectiveness on PA, SB and CRF outcomes, and features of the WHO HPS framework. 192 papers investigating 178 interventions were included. The majority of the identified interventions were single feature interventions (n = 84, 47%) while none of them encompassed all six features of the HPS framework. ‘Health skills and education’ (n = 104, 58%) was the most frequent feature followed by ‘Links with parents or community’ (n = 95, 53%). A higher percentage of effective interventions were found for theory-based interventions. Some single-feature interventions were found to be effective while no specific feature combination seemed to be associated with better intervention effectiveness. Theory-based single- as well as multi-feature interventions seem to have the potential to improve effectiveness with regard to PA, CRF, and SB outcomes.
+Keywords: Physical activity; Cardiorespiratory fitness; Sedentary behaviours; School-based; Scoping review; WHO Health Promoting School framework
